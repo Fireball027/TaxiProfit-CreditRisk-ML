@@ -1,5 +1,3 @@
-# Credit Risk Analysis
-
 ## Overview
 The Credit Risk Analysis project applies **Machine Learning (ML)** techniques to classify loan applications using the German Credit Dataset. With 1,000 loan applicant records and 20 feature variables, this project aims to extract crucial attributes influencing credit risk and build an efficient **classification model** to predict creditworthiness.
 
